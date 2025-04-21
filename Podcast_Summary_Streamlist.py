@@ -5,7 +5,8 @@ import re
 
 from openai import OpenAI
 
-client = OpenAI(api_key="sk-duFy5WFfNX5RFRB4YR2H9meo6YylnDk4U1CLDUffExT3BlbkFJHpUoqjtM5TpJQOGVBIsmv0w3B55aaI_kBaPPx5_1UA")
+api_key = st.secrets["openai"]["api_key"]
+client = OpenAI(api_key=api_key)
 
 
 # Function to extract video ID from YouTube URL
