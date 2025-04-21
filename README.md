@@ -1,5 +1,7 @@
 # Podcast-Summary
 Podcasts are becoming longer by the day! Don't want to miss out your favourite podcast? Use this code to summarize it and use it however you want!
+
+
 ![Aaron Abrams Shut Up GIF by Children Ruin Everything](https://github.com/user-attachments/assets/3751849e-e793-4c2b-a96b-0be1a66b7e75)
 
 Podcasts can be quite long, which makes it hard to quickly grasp the important takeaways.
